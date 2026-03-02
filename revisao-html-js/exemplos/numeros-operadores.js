@@ -43,7 +43,7 @@ if(possuiGraduacao) {
   console.log('Não possui graduação');
 }
 
- const diaSemana = Number(prompt('Digite um dia da semana: '));
+//  const diaSemana = Number(prompt('Digite um dia da semana: '));
 
   if (diaSemana === 1) {
     console.log('Segunda-feira');
