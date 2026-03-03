@@ -34,6 +34,6 @@ videoGames.push('3DS'); // Adiciona ao final da array
 videoGames.pop(); // Remove o último item e retorna ele
 
 // saber o tamanho do array
-videoGames.length; // 3
+videoGames.length; // 3 
 
 }
